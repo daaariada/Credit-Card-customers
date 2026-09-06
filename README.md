@@ -6,7 +6,7 @@
 
 - [`src/EDA_credit_card_churn.ipynb`](./src/EDA_credit_card_churn.ipynb) Jupyter-ноутбук: очистка данных, feature engineering (Age Group, Risk Segment), разбор бизнес-вопросов заказчика по сегментам, проверка значимости (chi-square)
 - [`data/BankChurners.csv`](./data/BankChurners.csv) исходный датасет (Kaggle, [Credit Card Customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)).
-- Дашборд: **Customer Retention Dashboard | Credit Card Portfolio** — tbd.
+- Дашборд: [Customer Retention Dashboard](./images/dashboard_preview.jpg).
 
 ## Пайплайн
 
